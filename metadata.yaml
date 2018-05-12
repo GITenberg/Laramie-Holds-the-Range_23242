@@ -1,0 +1,39 @@
+_repo: Laramie-Holds-the-Range_23242
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spearman, Frank H. (Frank Hamilton)
+    alias: Spearman, Frank Hamilton
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '25772'
+    url: http://www.gutenberg.org/2009/agents/25772
+    wikipedia: http://en.wikipedia.org/wiki/Frank_H._Spearman
+description: Kate Doubleday leaves her life in the East behind when her mother dies
+  and heads for the Western Rockies where she will meet her father for the first time.
+  Barb Doubleday is a cold, hard and very powerful rancher with friends and enemies
+  alike. Times are tough for cattlemen and now, with Doubleday constantly losing cattle
+  to rustlers, there's about to be hell to pay. Doubleday and his top honchos, Tom
+  Stone and Harry Van Horn, are determined to put a stop to the losses--and if people
+  have to die, that's all right with them. Jim Laramie is as honest as the day is
+  long--and that might prove unfortunate for him. Laramie's refusal to go along with
+  the murderous plans of the Doubleday gang puts him directly in their crosshairs.
+  And when Kate announces that she and Laramie are going to be married, there's one
+  chance in a thousand that he'll live to be a groom.
+gutenberg_issued: '2007-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23242'
+  lccn: '21014542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: Laramie Holds the Range
+url: http://www.gutenberg.org/ebooks/23242
